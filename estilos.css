@@ -1,3 +1,40 @@
+* {
+  margin: 0;
+  padding: 0;
+}
 
+body {
+  font-family: Arial, Sans-serif;
+  font-size: 16px;
+  background: #4a465b;
+}
 
+.contenedor {
+  width: 100px;
+  margin: 20px;
+}
+
+header {
+  background: #fff;
+}
+
+header nav {
+  width: 100%;
+}
+
+header nav ul {
+  width: 100%;
+  overflow: hidden;
+  list-style: none;
+}
+
+header nav ul li a {
+  display: inline-block;
+  padding: 15px 20px;
+  color: #000;
+}
+
+header nav ul li a {
+  background: #000;
+}
 /*# sourceMappingURL=estilos.css.map */
